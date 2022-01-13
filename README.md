@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crookedusages
 - 👀 I’m interested in learning new things all the time!
 - 🌱 I’m currently learning web development with the odin project
-- 💞️ I’m looking to collaborate on anything a newb coul handle
+
 - 📫 How to reach me : crookedusages@gmail.com
 
 <!---
